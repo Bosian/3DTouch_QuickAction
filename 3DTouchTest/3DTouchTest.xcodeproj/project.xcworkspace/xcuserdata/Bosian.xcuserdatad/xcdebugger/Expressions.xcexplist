@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.previewingContext(UIViewControllerPreviewing, commitViewController : UIViewController) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewControllerToCommit.dynamicType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
